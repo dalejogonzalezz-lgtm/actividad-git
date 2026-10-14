@@ -1,2 +1,3 @@
 El objetivo de esta actividad es aprender a utilizar los comandos básicos de Git, crear archivos de texto, modificar su contenido y registrar los cambios mediante commits descriptivos.
 También aprenderé a revisar el historial de cambios y a escribir mensajes de commit claros y descriptivos.
+Estoy aprendiendo a utilizar comandos de Git para controlar las versiones de mis archivos.
