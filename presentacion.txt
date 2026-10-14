@@ -1,3 +1,4 @@
 Soy estudiante y estoy aprendiendo a utilizar Git y GitHub.
 
 Este repositorio contiene archivos de texto en los que documentaré mis modificaciones y practicaré el control de versiones.
+Durante esta actividad estoy aprendiendo a utilizar GitHub para organizar archivos y documentar los cambios realizados.
